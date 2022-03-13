@@ -1,5 +1,5 @@
 # Landing Page Project
-it is myfirst project in Profeesional trac with udacity
+it is myfirst project in Profeesional web with udacity
 
 ## Table of Contents
 - [Introduction For Dom](#introduction)
