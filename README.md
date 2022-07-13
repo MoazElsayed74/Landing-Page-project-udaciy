@@ -1,6 +1,6 @@
 # Landing Page Project
-it is myfirst project in Profeesional web with udacity
-
+it is myfirst project in Profeesional web with udacity   
+test git Submodules !	
 ## Table of Contents
 - [Introduction For Dom](#introduction)
 - [Introduction For Project](#introduction)
@@ -49,5 +49,4 @@ applied project for DOM and Functionality of JavScript and Making dynamic page
 
 - https://gist.github.com/ricardozea/abb9f98a19f6d04a0269
 
-- https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascript
-
+- https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascrit
